@@ -128,6 +128,4 @@ with torch.inference_mode():
     y_test_pred_class = torch.argmax(torch.softmax(y_test_pred, dim=1), dim=1)
     if y_test_pred_class == test_label:
         print('Beautiful!')
-    print(y_test_pred_class)    
-
-torch.save(model0, 'convo_model.pth')    
+    print(y_test_pred_class)      
