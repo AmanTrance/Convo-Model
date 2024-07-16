@@ -1,4 +1,4 @@
-#Convolutional Neural Network based model can classify Images of different Politicians and Celebrities.
+Convolutional Neural Network based model can classify Images of different Politicians and Celebrities.
 
 
 Currently working with the dataset to improve its accuracy. 
